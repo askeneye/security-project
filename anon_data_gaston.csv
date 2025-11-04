@@ -1,0 +1,201 @@
+sex,evote,zip,education,citizenship,marital_status,party,age_band
+Female,0,2400,Higher education,Other,Never married,Green,50-59
+Female,0,2300,Primary education,Other,Married/separated,Red,70+
+Male,1,2100,Primary education,Denmark,Never married,Green,18-29
+Female,0,2200,Secondary education,Denmark,Married/separated,Red,50-59
+Female,0,2400,Secondary education,Denmark,Married/separated,Green,70+
+Male,0,2100,Vocational/Medium cycle,Other,Never married,Red,50-59
+Female,0,2300,Secondary education,Denmark,Married/separated,Green,40-49
+Female,0,2100,Higher education,Denmark,Married/separated,Red,40-49
+Male,0,2200,Higher education,Denmark,Married/separated,Green,30-39
+Female,1,2400,Vocational/Medium cycle,Denmark,Married/separated,Green,40-49
+Male,0,2400,Primary education,Denmark,Divorced/Widowed,Red,70+
+Female,1,2100,Higher education,Denmark,Never married,Red,30-39
+Female,1,2200,Higher education,Denmark,Never married,Green,30-39
+Female,0,2400,Vocational/Medium cycle,Denmark,Married/separated,Red,50-59
+Male,0,2100,Secondary education,Denmark,Never married,Red,60-69
+Male,0,2200,Higher education,Denmark,Married/separated,Green,70+
+Female,0,2200,Secondary education,Other,Married/separated,Green,40-49
+Female,0,2400,Secondary education,Denmark,Never married,Green,40-49
+Female,1,2200,Primary education,Denmark,Divorced/Widowed,Red,60-69
+Male,0,2400,Vocational/Medium cycle,Denmark,Married/separated,Red,40-49
+Male,0,2200,Vocational/Medium cycle,Denmark,Married/separated,Red,60-69
+Male,0,2200,Primary education,Denmark,Never married,Green,18-29
+Female,0,2300,Vocational/Medium cycle,Denmark,Married/separated,Red,60-69
+Female,0,2300,Secondary education,Denmark,Never married,Green,50-59
+Male,0,2300,Primary education,Denmark,Never married,Green,30-39
+Male,0,2200,Secondary education,Denmark,Never married,Green,50-59
+Male,1,2100,Secondary education,Denmark,Never married,Red,30-39
+Female,0,2100,Secondary education,Denmark,Married/separated,Green,60-69
+Female,1,2300,Vocational/Medium cycle,Denmark,Never married,Green,30-39
+Female,0,2400,Secondary education,Denmark,Never married,Green,60-69
+Female,1,2100,Secondary education,Denmark,Never married,Red,18-29
+Female,0,2400,Secondary education,Denmark,Married/separated,Green,70+
+Male,1,2100,Higher education,Denmark,Married/separated,Green,40-49
+Female,0,2300,Primary education,Denmark,Married/separated,Red,60-69
+Male,0,2200,Higher education,Denmark,Married/separated,Green,50-59
+Male,0,2400,Secondary education,Denmark,Never married,Red,30-39
+Male,0,2200,Secondary education,Denmark,Divorced/Widowed,Green,50-59
+Female,0,2400,Secondary education,Denmark,Married/separated,Green,40-49
+Female,1,2100,Higher education,Other,Never married,Green,30-39
+Male,1,2400,Vocational/Medium cycle,Denmark,Never married,Green,18-29
+Male,1,2400,Secondary education,Denmark,Married/separated,Green,60-69
+Female,0,2300,Secondary education,Denmark,Never married,Red,30-39
+Male,0,2100,Secondary education,Denmark,Never married,Green,18-29
+Male,0,2200,Vocational/Medium cycle,Denmark,Never married,Green,30-39
+Female,1,2200,Higher education,Denmark,Never married,Red,30-39
+Male,1,2200,Higher education,Denmark,Never married,Green,60-69
+Female,0,2300,Secondary education,Denmark,Married/separated,Green,70+
+Female,0,2200,Secondary education,Denmark,Never married,Green,18-29
+Female,1,2300,Higher education,Denmark,Divorced/Widowed,Red,50-59
+Female,1,2300,Vocational/Medium cycle,Denmark,Married/separated,Green,50-59
+Female,1,2400,Secondary education,Other,Never married,Green,50-59
+Male,0,2100,Secondary education,Denmark,Married/separated,Green,40-49
+Female,0,2400,Secondary education,Denmark,Married/separated,Red,70+
+Male,1,2100,Primary education,Denmark,Divorced/Widowed,Green,70+
+Male,1,2400,Vocational/Medium cycle,Denmark,Never married,Green,30-39
+Female,0,2200,Secondary education,Denmark,Never married,Red,18-29
+Female,0,2300,Secondary education,Other,Married/separated,Green,60-69
+Female,0,2300,Primary education,Denmark,Married/separated,Green,50-59
+Male,0,2200,Higher education,Denmark,Never married,Green,30-39
+Male,0,2400,Vocational/Medium cycle,Other,Divorced/Widowed,Green,30-39
+Female,0,2300,Secondary education,Denmark,Never married,Red,60-69
+Female,0,2100,Higher education,Denmark,Never married,Green,18-29
+Female,1,2400,Secondary education,Denmark,Never married,Green,40-49
+Male,1,2400,Vocational/Medium cycle,Denmark,Married/separated,Red,50-59
+Female,0,2400,Secondary education,Denmark,Married/separated,Green,50-59
+Female,1,2400,Secondary education,Denmark,Never married,Green,50-59
+Female,0,2400,Higher education,Denmark,Never married,Red,30-39
+Female,0,2200,Secondary education,Denmark,Divorced/Widowed,Green,60-69
+Female,1,2200,Secondary education,Other,Never married,Green,18-29
+Female,0,2400,Secondary education,Denmark,Married/separated,Red,40-49
+Male,1,2300,Higher education,Denmark,Never married,Green,18-29
+Female,0,2200,Higher education,Other,Married/separated,Red,30-39
+Male,0,2300,Higher education,Denmark,Married/separated,Green,30-39
+Male,0,2100,Primary education,Denmark,Never married,Red,30-39
+Male,1,2300,Vocational/Medium cycle,Denmark,Married/separated,Red,60-69
+Female,0,2200,Secondary education,Denmark,Never married,Green,50-59
+Male,0,2300,Higher education,Denmark,Divorced/Widowed,Red,70+
+Female,0,2400,Secondary education,Denmark,Married/separated,Green,30-39
+Male,0,2400,Secondary education,Denmark,Married/separated,Green,50-59
+Male,0,2200,Higher education,Denmark,Never married,Green,18-29
+Female,0,2200,Vocational/Medium cycle,Denmark,Married/separated,Green,60-69
+Female,1,2100,Secondary education,Other,Married/separated,Red,40-49
+Male,1,2400,Primary education,Denmark,Never married,Green,40-49
+Female,1,2400,Secondary education,Denmark,Married/separated,Green,60-69
+Female,1,2400,Vocational/Medium cycle,Denmark,Divorced/Widowed,Green,40-49
+Female,0,2400,Vocational/Medium cycle,Denmark,Married/separated,Green,70+
+Male,0,2400,Secondary education,Denmark,Married/separated,Red,40-49
+Female,0,2400,Secondary education,Denmark,Divorced/Widowed,Red,70+
+Female,0,2200,Primary education,Denmark,Divorced/Widowed,Green,70+
+Male,0,2200,Primary education,Denmark,Married/separated,Green,40-49
+Female,0,2400,Higher education,Denmark,Divorced/Widowed,Green,40-49
+Male,1,2100,Vocational/Medium cycle,Denmark,Married/separated,Green,50-59
+Male,0,2100,Primary education,Denmark,Never married,Green,18-29
+Male,0,2300,Vocational/Medium cycle,Denmark,Divorced/Widowed,Green,40-49
+Male,1,2100,Higher education,Denmark,Never married,Green,70+
+Male,0,2200,Secondary education,Denmark,Never married,Green,30-39
+Male,1,2400,Primary education,Other,Married/separated,Green,70+
+Female,1,2100,Secondary education,Other,Never married,Green,30-39
+Female,0,2200,Primary education,Denmark,Married/separated,Green,60-69
+Female,0,2300,Secondary education,Denmark,Never married,Green,50-59
+Female,0,2400,Vocational/Medium cycle,Denmark,Never married,Green,40-49
+Male,0,2400,Secondary education,Denmark,Married/separated,Green,40-49
+Female,1,2400,Vocational/Medium cycle,Other,Married/separated,Green,40-49
+Male,0,2400,Primary education,Denmark,Married/separated,Red,50-59
+Male,0,2200,Secondary education,Denmark,Divorced/Widowed,Green,40-49
+Female,1,2300,Vocational/Medium cycle,Denmark,Never married,Green,18-29
+Female,0,2400,Vocational/Medium cycle,Denmark,Married/separated,Green,60-69
+Female,0,2200,Primary education,Denmark,Divorced/Widowed,Red,60-69
+Female,0,2400,Secondary education,Denmark,Married/separated,Green,50-59
+Male,0,2300,Secondary education,Other,Married/separated,Green,60-69
+Male,0,2400,Secondary education,Denmark,Married/separated,Green,30-39
+Male,1,2300,Vocational/Medium cycle,Denmark,Married/separated,Red,50-59
+Male,1,2400,Primary education,Other,Divorced/Widowed,Green,40-49
+Female,0,2400,Secondary education,Denmark,Married/separated,Red,50-59
+Female,1,2200,Secondary education,Denmark,Married/separated,Green,50-59
+Female,0,2300,Primary education,Denmark,Never married,Red,50-59
+Male,0,2300,Primary education,Denmark,Married/separated,Red,40-49
+Male,0,2400,Secondary education,Denmark,Married/separated,Green,50-59
+Female,0,2100,Secondary education,Denmark,Divorced/Widowed,Green,40-49
+Male,1,2100,Vocational/Medium cycle,Other,Never married,Green,30-39
+Male,1,2400,Vocational/Medium cycle,Denmark,Married/separated,Red,30-39
+Male,0,2400,Primary education,Denmark,Married/separated,Red,50-59
+Male,1,2200,Vocational/Medium cycle,Denmark,Married/separated,Red,50-59
+Female,1,2400,Primary education,Denmark,Married/separated,Red,60-69
+Female,0,2400,Vocational/Medium cycle,Denmark,Married/separated,Red,50-59
+Female,0,2200,Secondary education,Denmark,Married/separated,Red,70+
+Female,1,2300,Vocational/Medium cycle,Denmark,Never married,Red,60-69
+Female,0,2200,Primary education,Denmark,Married/separated,Red,60-69
+Male,1,2100,Vocational/Medium cycle,Denmark,Never married,Red,30-39
+Female,1,2200,Vocational/Medium cycle,Denmark,Never married,Green,18-29
+Female,1,2200,Vocational/Medium cycle,Denmark,Married/separated,Red,30-39
+Female,1,2400,Primary education,Denmark,Never married,Green,18-29
+Female,1,2100,Secondary education,Denmark,Never married,Green,18-29
+Female,0,2300,Higher education,Denmark,Never married,Red,40-49
+Male,0,2300,Primary education,Denmark,Never married,Green,18-29
+Male,0,2400,Higher education,Denmark,Divorced/Widowed,Green,60-69
+Male,0,2300,Vocational/Medium cycle,Denmark,Married/separated,Green,30-39
+Female,1,2300,Higher education,Denmark,Married/separated,Red,40-49
+Male,0,2300,Higher education,Denmark,Never married,Green,30-39
+Male,1,2100,Primary education,Denmark,Divorced/Widowed,Green,60-69
+Female,0,2100,Secondary education,Denmark,Divorced/Widowed,Red,70+
+Male,0,2400,Secondary education,Denmark,Divorced/Widowed,Green,60-69
+Female,0,2100,Vocational/Medium cycle,Denmark,Divorced/Widowed,Green,40-49
+Male,1,2300,Secondary education,Other,Never married,Green,40-49
+Male,0,2400,Vocational/Medium cycle,Denmark,Divorced/Widowed,Red,60-69
+Male,0,2200,Secondary education,Denmark,Never married,Green,60-69
+Female,1,2100,Vocational/Medium cycle,Denmark,Married/separated,Red,70+
+Female,0,2300,Primary education,Denmark,Never married,Green,18-29
+Female,1,2400,Primary education,Denmark,Divorced/Widowed,Green,40-49
+Female,0,2200,Secondary education,Denmark,Divorced/Widowed,Red,70+
+Female,1,2300,Primary education,Denmark,Married/separated,Red,50-59
+Male,1,2200,Higher education,Denmark,Never married,Green,30-39
+Male,0,2200,Secondary education,Other,Married/separated,Green,60-69
+Male,0,2100,Secondary education,Denmark,Married/separated,Red,70+
+Male,0,2200,Secondary education,Denmark,Never married,Green,30-39
+Male,1,2300,Higher education,Denmark,Never married,Green,18-29
+Female,0,2100,Vocational/Medium cycle,Denmark,Never married,Green,30-39
+Male,0,2300,Primary education,Denmark,Never married,Green,18-29
+Female,1,2300,Secondary education,Denmark,Never married,Red,30-39
+Female,0,2100,Vocational/Medium cycle,Denmark,Never married,Red,50-59
+Female,0,2400,Secondary education,Denmark,Never married,Green,40-49
+Male,0,2300,Secondary education,Other,Married/separated,Red,50-59
+Male,0,2200,Vocational/Medium cycle,Denmark,Married/separated,Red,40-49
+Male,1,2300,Vocational/Medium cycle,Other,Divorced/Widowed,Red,70+
+Male,0,2200,Higher education,Denmark,Never married,Green,30-39
+Female,0,2300,Secondary education,Denmark,Married/separated,Green,60-69
+Male,1,2400,Primary education,Denmark,Married/separated,Red,40-49
+Female,0,2300,Secondary education,Denmark,Married/separated,Green,30-39
+Female,1,2200,Vocational/Medium cycle,Denmark,Divorced/Widowed,Red,70+
+Female,0,2200,Vocational/Medium cycle,Denmark,Never married,Red,30-39
+Female,0,2200,Secondary education,Denmark,Married/separated,Red,50-59
+Male,1,2300,Secondary education,Denmark,Never married,Green,30-39
+Male,0,2400,Secondary education,Denmark,Divorced/Widowed,Red,50-59
+Male,0,2300,Secondary education,Denmark,Never married,Green,50-59
+Male,0,2100,Higher education,Denmark,Never married,Green,18-29
+Male,0,2400,Secondary education,Denmark,Divorced/Widowed,Green,70+
+Female,0,2200,Secondary education,Denmark,Never married,Green,18-29
+Female,0,2100,Secondary education,Denmark,Never married,Green,30-39
+Female,0,2200,Primary education,Denmark,Married/separated,Red,50-59
+Male,0,2400,Higher education,Other,Married/separated,Green,60-69
+Male,1,2300,Higher education,Denmark,Married/separated,Green,70+
+Male,1,2200,Secondary education,Denmark,Never married,Green,18-29
+Female,0,2200,Secondary education,Denmark,Married/separated,Green,60-69
+Female,1,2400,Higher education,Denmark,Never married,Green,60-69
+Male,0,2200,Vocational/Medium cycle,Denmark,Divorced/Widowed,Red,70+
+Female,0,2400,Primary education,Denmark,Divorced/Widowed,Green,70+
+Male,1,2300,Secondary education,Denmark,Never married,Green,40-49
+Female,0,2200,Secondary education,Denmark,Divorced/Widowed,Red,30-39
+Male,0,2200,Vocational/Medium cycle,Denmark,Married/separated,Green,50-59
+Male,0,2400,Vocational/Medium cycle,Denmark,Married/separated,Green,50-59
+Male,1,2200,Vocational/Medium cycle,Denmark,Never married,Red,18-29
+Male,1,2300,Primary education,Denmark,Divorced/Widowed,Green,30-39
+Female,0,2400,Secondary education,Denmark,Never married,Green,30-39
+Male,1,2100,Secondary education,Other,Never married,Green,30-39
+Male,1,2400,Secondary education,Denmark,Never married,Red,50-59
+Male,0,2400,Primary education,Denmark,Married/separated,Green,60-69
+Female,0,2200,Higher education,Denmark,Divorced/Widowed,Red,50-59
+Male,0,2300,Higher education,Denmark,Married/separated,Green,70+
+Female,0,2400,Higher education,Denmark,Never married,Green,40-49
+Female,0,2100,Higher education,Denmark,Never married,Green,50-59
